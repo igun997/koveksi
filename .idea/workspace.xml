@@ -19,7 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb54b2ef-7f51-4e7a-a546-ee8b93d79d0b" name="Default Changelist" comment="" />
+    <list default="true" id="eb54b2ef-7f51-4e7a-a546-ee8b93d79d0b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/konveksi.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/konveksi.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.lock" beforeDir="false" afterPath="$PROJECT_DIR$/composer.lock" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -145,6 +151,8 @@
       <path value="$PROJECT_DIR$/vendor/phenx/php-svg-lib" />
       <path value="$PROJECT_DIR$/vendor/psr/http-factory" />
       <path value="$PROJECT_DIR$/vendor/phenx/php-font-lib" />
+      <path value="$PROJECT_DIR$/vendor/xethron/migrations-generator" />
+      <path value="$PROJECT_DIR$/vendor/xethron/laravel-4-generators" />
     </include_path>
   </component>
   <component name="ProjectId" id="1jXWsl9FFl4Rw5XlkKqi9maMZEk" />
@@ -181,7 +189,8 @@
       <workItem from="1603951147484" duration="1029000" />
       <workItem from="1603954692472" duration="2153000" />
       <workItem from="1603958214088" duration="4327000" />
-      <workItem from="1603963900821" duration="8920000" />
+      <workItem from="1603963900821" duration="9702000" />
+      <workItem from="1604036349667" duration="322000" />
     </task>
     <task id="LOCAL-00001" summary="Models">
       <created>1603958998374</created>
